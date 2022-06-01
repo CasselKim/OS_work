@@ -42,10 +42,7 @@ add `hello.c`, `test_hello.c`, `test_sread.c`, `test_swrite.c` files.
 `sudo ./test_swrite`  
  
 ## Result
-### test_swrite
-![image](result1.png)  
-### test_sread
-![image](result2.png)  
+![image](result.png)  
 
 ## Source code
 ### 1. linux system call - read, write
